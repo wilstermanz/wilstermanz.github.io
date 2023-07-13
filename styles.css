@@ -94,6 +94,11 @@ section {
     width: 75%;
 }
 
+.project ul {
+    list-style-position: inside;
+    list-style-type: disc;
+}
+
 .tech {
     text-align: center;
     font-weight: bold;
