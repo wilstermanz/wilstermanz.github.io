@@ -38,6 +38,8 @@ h3 {
 
 img {
     padding-bottom: 20px;
+    height: auto;
+    max-height: 400px;
 }
 
 a {
